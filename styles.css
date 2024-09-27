@@ -8,14 +8,13 @@ body {
 }
 .head {
   margin-left: 40%;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
-
 .head b {
   color: orange;
 }
 .head hr {
-  width: 30%;
+  width: 45%;
 }
 .card {
   background-color: #555;
@@ -64,6 +63,7 @@ body {
 }
 .card h2 {
   color: #e76f51;
+  margin-bottom: 10px;
 }
 .card-body {
   margin-top: 1rem;
